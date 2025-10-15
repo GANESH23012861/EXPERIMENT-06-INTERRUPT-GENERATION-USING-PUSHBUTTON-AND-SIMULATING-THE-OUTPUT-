@@ -90,13 +90,13 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 
+<img width="1708" height="887" alt="Screenshot 2025-10-15 100852" src="https://github.com/user-attachments/assets/0d737b58-0162-471d-a5df-ec491a460b1f" />
 
 
 ## Output screen shots of proteus  :
  
- 
- ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- 
+<img width="1736" height="962" alt="image" src="https://github.com/user-attachments/assets/49efd143-402e-4895-bed7-01d9748fd06c" />
+
  
 ## Result :
 Interfacing a push button and interrupt genrateion is simulated using proteus 
